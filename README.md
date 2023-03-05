@@ -3,7 +3,7 @@
 **test code review**
 **проверка тестового кода**
 *test pull request*
-*запрос на тестовое вытягивание*
+*тестовый запрос на слияние*
 Get (http):
 ```shell
 git clone https://github.com/nezawu/trash.git
