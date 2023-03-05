@@ -9,5 +9,5 @@ git clone https://github.com/nezawu/trash.git
 ```
 get (ssh):
 ```shell
-git clone git@github.com:nezowu/trash.git
+git clone git@github.com:nezawu/trash.git
 ```
