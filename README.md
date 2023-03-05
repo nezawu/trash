@@ -6,6 +6,7 @@
 Get (http):
 ```shell
 git clone https://github.com/nezawu/trash.git
+cd trash
 ```
 Get (ssh):
 ```shell
