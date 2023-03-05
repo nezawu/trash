@@ -11,4 +11,5 @@ cd trash
 Get (ssh):
 ```shell
 git clone git@github.com:nezawu/trash.git
+cd trash
 ```
