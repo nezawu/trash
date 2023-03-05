@@ -3,11 +3,11 @@
 **test code review**  
 *test pull request*
 
-get (http):
+Get (http):
 ```shell
 git clone https://github.com/nezawu/trash.git
 ```
-get (ssh):
+Get (ssh):
 ```shell
 git clone git@github.com:nezawu/trash.git
 ```
