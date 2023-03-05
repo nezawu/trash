@@ -1,9 +1,10 @@
-# open project  
-# открытый проект  
-**test code review**
-**проверка тестового кода**
-*test pull request*
+## open project  
+## открытый проект  
+**test code review**  
+**проверка тестового кода**  
+*test pull request*  
 *тестовый запрос на слияние*
+
 Get (http):
 ```shell
 git clone https://github.com/nezawu/trash.git
