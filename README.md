@@ -6,7 +6,8 @@
 *тестовый запрос на слияние*
 
 * тест 1  
-
+* тест 2  
+========
 Get (http):
 ```shell
 git clone https://github.com/nezawu/trash.git
