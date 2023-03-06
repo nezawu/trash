@@ -17,3 +17,4 @@ cd trash
 ```
 
 [Telegram](https://t.me/linux_nezowu)
+.
